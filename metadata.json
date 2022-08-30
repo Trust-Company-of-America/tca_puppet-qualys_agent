@@ -1,16 +1,16 @@
 {
-  "name": "broadinstitute-qualys_agent",
-  "version": "0.9.4",
+  "name": "tca_broadinstitute_qualys_agent",
+  "version": "0.9.5",
   "author": "broadinstitute",
   "summary": "Install and configure the Qualys Cloud Agent",
   "license": "BSD-3-Clause",
-  "source": "https://github.com/broadinstitute/puppet-qualys_agent",
-  "project_page": "https://github.com/broadinstitute/puppet-qualys_agent",
-  "issues_url": "https://github.com/broadinstitute/puppet-qualys_agent/issues",
+  "source": "https://github.com/Trust-Company-of-America/tca_puppet_qualys_agent",
+  "project_page": "https://github.com/Trust-Company-of-America/tca_puppet_qualys_agent",
+  "issues_url": "https://github.com/Trust-Company-of-America/tca_puppet_qualys_agent/issues",
   "dependencies": [
     {
       "name": "puppetlabs-stdlib",
-      "version_requirement": ">= 1.0.0 < 7.0.0"
+      "version_requirement": ">= 1.0.0"
     }
   ],
   "operatingsystem_support": [
@@ -55,7 +55,7 @@
   "requirements": [
     {
       "name": "puppet",
-      "version_requirement": ">= 4.10.0 < 8.0.0"
+      "version_requirement": ">= 4.10.0"
     }
   ],
   "pdk-version": "2.0.0",
