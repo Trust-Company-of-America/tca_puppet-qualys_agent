@@ -1,6 +1,6 @@
 {
-  "name": "tca_broadinstitute_qualys_agent",
-  "version": "0.9.5",
+  "name": "tca_puppet_qualys_agent",
+  "version": "0.9.6",
   "author": "broadinstitute",
   "summary": "Install and configure the Qualys Cloud Agent",
   "license": "BSD-3-Clause",
