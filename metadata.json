@@ -1,12 +1,12 @@
 {
-  "name": "tca_puppet_qualys_agent",
+  "name": "tca_puppet-qualys_agent",
   "version": "0.9.6",
   "author": "broadinstitute",
   "summary": "Install and configure the Qualys Cloud Agent",
   "license": "BSD-3-Clause",
-  "source": "https://github.com/Trust-Company-of-America/tca_puppet_qualys_agent",
-  "project_page": "https://github.com/Trust-Company-of-America/tca_puppet_qualys_agent",
-  "issues_url": "https://github.com/Trust-Company-of-America/tca_puppet_qualys_agent/issues",
+  "source": "https://github.com/Trust-Company-of-America/tca_puppet-qualys_agent",
+  "project_page": "https://github.com/Trust-Company-of-America/tca_puppet-qualys_agent",
+  "issues_url": "https://github.com/Trust-Company-of-America/tca_puppet-qualys_agent/issues",
   "dependencies": [
     {
       "name": "puppetlabs-stdlib",
